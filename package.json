@@ -1,0 +1,24 @@
+{
+  "name": "git-js-node-primer",
+  "version": "1.0.0",
+  "description": "JavaScript and Version Control Primer in NodeJS Environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daisy O. Obasogie",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/deijiO/git-js-node-primer.git)"
+  },
+  "keywords": [
+    "Git",
+    "JavaScript",
+    "Node",
+    "React-Practice"
+  ],
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
